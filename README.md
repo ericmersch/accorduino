@@ -1,5 +1,5 @@
 # Accorduino
 Arduino based instrument to play chords
 
-![image](accorduino.jepg)
+![image](accorduino.jpeg)
 ![sketch](sketch_accorduino.jpg)
